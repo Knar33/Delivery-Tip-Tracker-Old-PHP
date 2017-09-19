@@ -1,0 +1,7 @@
+//check if it's less than an hour
+								if ($dtotaltimeminutes < 60) {
+									$totaltipz = round($totaltipz, 2);
+									echo '<tr><td style="background-color: white; color: black;">Tips per hour</td><td>$'.number_format((float)$totaltipz, 2, '.', '').'</td></tr>';
+								} else {
+								
+								}
