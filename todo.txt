@@ -1,0 +1,4 @@
+to do:
+create paycheck weekly tip amounts
+ability to delete and create shifts
+	date and time inputs
